@@ -32,3 +32,14 @@ Runner/GeneratedPluginRegistrant.*
 !default.mode2v3
 !default.pbxuser
 !default.perspectivev3
+
+# .gitignore に以下を含める
+build/
+.dart_tool/
+.packages
+.pub-cache/
+ios/Pods/
+android/.gradle/
+android/app/build/
+*.log
+
