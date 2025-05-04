@@ -37,7 +37,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          Text('わにゃちゃん？:'),
+          Text('わにゃちゃん！:'),
           ElevatedButton(
             onPressed: () {
               print('わにゃちゃん pressed!');
