@@ -61,7 +61,7 @@ class MyHomePage extends StatelessWidget {
                 appState.getNext();
                 print('わにゃちゃん pressed!');
               },
-              child: Text('押してみて'),
+              child: Text('押してみて!'),
             ),
           ],
         ),
